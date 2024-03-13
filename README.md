@@ -1,4 +1,4 @@
-# Communication Networks Project 2021/2022 - Stock Exchange Simulation
+# Stock Exchange Simulation
 
 ## Authors
 - Ricardo Rafael Ferreira Guegan
